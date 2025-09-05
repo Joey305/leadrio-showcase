@@ -1,5 +1,7 @@
 # Lead-RIO — Geographic Lead Discovery (Public Showcase)
 
+[![Live App](https://img.shields.io/badge/Live%20App-Open%20Lead--RIO-blue)](https://leadrio-f9b268bd4539.herokuapp.com/)
+
 > Find and prioritize leads by **City / State / ZIP**, visualize them on a map, work them with a lightweight CRM, and export to CSV.  
 > **This repo is a public showcase (docs + screenshots).** Production source code and datasets remain private.
 
@@ -41,7 +43,7 @@
 
 ## Screenshots
 
-**Login**
+**Login**  
 ![Lead-RIO login screen](assets/lead-rio-login.png)
 
 **Lead Generator Portal**  
